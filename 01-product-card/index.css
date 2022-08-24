@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.head_wrapper{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.header_title{
+    width: 481px;
+    height: 72px;
+    position: absolute;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 72px;
+    padding-left: 50%;
+    padding-right: 50%;
+}
+
+
